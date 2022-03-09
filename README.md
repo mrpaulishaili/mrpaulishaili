@@ -1,3 +1,3 @@
-[![Social banner for mrpaulishaili](https://github.com/mrpaulishaili/mrpaulishaili/blob/main/assets/github-header-image.png)](https://mrpaulishaili.vercel.app)
+[![Social banner for mrpaulishaili](https://raw.githubusercontent.com/mrpaulishaili/mrpaulishaili/main/github-header-image.png)](https://mrpaulishaili.vercel.app)
 
 <h1 align='center'>🙂 Be Great!</h1>
