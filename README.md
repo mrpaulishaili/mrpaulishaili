@@ -1,5 +1,5 @@
 <h1 align="center">Welcome 👋, to my Github World. I'm Paul C. Ishaili</h1>
-<h3 align="center">A Software Engineer, Frontend Developer and Technical Writer building detailed web layouts, technological tools, experiences and developing solutions for businesses, organizations and enterprises.</h3>
+<h3 align="center">A Software Engineer, Frontend Developer and Tech Writer building detailed web layouts, technological tools, experiences and developing solutions for businesses, organizations and enterprises.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrpaulishaili&label=Profile%20views&color=0e75b6&style=flat" alt="mrpaulishaili" /> </p>
 
