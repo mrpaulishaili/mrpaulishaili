@@ -15,11 +15,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [FAQS when learning React - Beginner!](https://dev.to/mrpaulishaili/faqs-in-learning-react-4cig)
 - [Birthday Journal - Day 2: Hindering Patterns to Sucess](https://dev.to/mrpaulishaili/birthday-journal-clocking-24-day-2-9cm)
 - [Unexpected token &lt; in json at position 0 fetch api](https://dev.to/mrpaulishaili/unexpected-token-in-json-at-position-0-fetch-api-26cl)
 - [Branding Photography for Effective Personal Branding](https://dev.to/mrpaulishaili/branding-photography-for-effective-personal-branding-5f2m)
 - [Birthday Journal - Day 1: Dawned Reality](https://dev.to/mrpaulishaili/birthday-journal-clocking-24-day-1-1j05)
-- [How to Build Your Personal Brand Online](https://dev.to/mrpaulishaili/how-to-build-your-personal-brand-online-34jp)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
