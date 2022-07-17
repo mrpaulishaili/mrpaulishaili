@@ -15,11 +15,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [CSS Layers - Tackling specificity in CSS](https://dev.to/mrpaulishaili/css-layers-tackling-specificity-in-css-27e)
 - [Vuetify Error: You cannot call &quot;get&quot; on a collection with no paths.](https://dev.to/mrpaulishaili/vuetify-error-you-cannot-call-get-on-a-collection-with-no-paths-5a66)
 - [Declaring Variables in JavaScript.](https://dev.to/mrpaulishaili/declaring-variables-in-javascript-1fnm)
 - [Life Quotes and philosophies -Mr. Paul Ishaili.](https://dev.to/mrpaulishaili/life-philosophies-of-mr-paulishaili-4h64)
 - [FAQS when learning React - Beginner!](https://dev.to/mrpaulishaili/faqs-in-learning-react-4cig)
-- [Birthday Journal - Day 2: Hindering Patterns to Sucess](https://dev.to/mrpaulishaili/birthday-journal-clocking-24-day-2-9cm)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
