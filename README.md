@@ -15,11 +15,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [HOW TO COLLABRATE ON GITHUB](https://dev.to/mrpaulishaili/how-to-collabrate-on-github-13la)
 - [API, REST, and RESTful API Simplified.](https://dev.to/mrpaulishaili/api-rest-and-restful-api-simplified-559l)
 - [Use Absolute path in importing components - React || Next](https://dev.to/mrpaulishaili/use-absolute-path-in-importing-components-react-next-3dl8)
 - [Dynamically Adding FontAwesome Icons in NextJS](https://dev.to/mrpaulishaili/dynamically-adding-fontawesome-icons-in-nextjs-4i76)
 - [Being a Web Developer - Programming Languages](https://dev.to/mrpaulishaili/being-a-web-developer-programming-languages-1mfj)
-- [Being a Web Developer - Getting Started](https://dev.to/mrpaulishaili/being-a-web-developer-getting-started-542o)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
