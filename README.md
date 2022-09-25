@@ -15,7 +15,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Here&#39;s how I increased a website performance by 21%!](https://dev.to/mrpaulishaili/heres-how-i-increased-a-website-performance-by-21-7di)
+- [Here&#39;s how I increased website performance by 21%!](https://dev.to/mrpaulishaili/heres-how-i-increased-a-website-performance-by-21-7di)
 - [HOW TO COLLABRATE ON GITHUB](https://dev.to/mrpaulishaili/how-to-collabrate-on-github-13la)
 - [API, REST, and RESTful API Simplified.](https://dev.to/mrpaulishaili/api-rest-and-restful-api-simplified-559l)
 - [Use Absolute path in importing components - React || Next](https://dev.to/mrpaulishaili/use-absolute-path-in-importing-components-react-next-3dl8)
