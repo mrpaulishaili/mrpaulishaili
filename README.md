@@ -15,11 +15,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Fundamentals in JavaScript](https://dev.to/mrpaulishaili/fundamentals-in-javascript-37i8)
+- [Introduction to Javascript](https://dev.to/mrpaulishaili/introduction-to-javascript-19e9)
 - [Getting Started in Developing Chrome Extensions](https://dev.to/mrpaulishaili/getting-started-in-developing-chrome-extensions-24ff)
 - [Here&#39;s how I increased website performance by 21%!](https://dev.to/mrpaulishaili/heres-how-i-increased-a-website-performance-by-21-7di)
 - [HOW TO COLLABRATE ON GITHUB](https://dev.to/mrpaulishaili/how-to-collabrate-on-github-13la)
-- [API, REST, and RESTful API Simplified.](https://dev.to/mrpaulishaili/api-rest-and-restful-api-simplified-559l)
-- [Use Absolute path in importing components - React || Next](https://dev.to/mrpaulishaili/use-absolute-path-in-importing-components-react-next-3dl8)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
