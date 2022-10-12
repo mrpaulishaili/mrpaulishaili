@@ -15,11 +15,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [150 Days Learning Python - Day 1](https://dev.to/mrpaulishaili/150-days-learning-python-day-1-1h9c)
+- [150 DAYS LEARNING PYTHON.](https://dev.to/mrpaulishaili/150-days-learning-python-43mj)
 - [Fundamentals in JavaScript](https://dev.to/mrpaulishaili/fundamentals-in-javascript-37i8)
 - [Introduction to Javascript](https://dev.to/mrpaulishaili/introduction-to-javascript-19e9)
 - [Getting Started in Developing Chrome Extensions](https://dev.to/mrpaulishaili/getting-started-in-developing-chrome-extensions-24ff)
-- [Here&#39;s how I increased website performance by 21%!](https://dev.to/mrpaulishaili/heres-how-i-increased-a-website-performance-by-21-7di)
-- [HOW TO COLLABRATE ON GITHUB](https://dev.to/mrpaulishaili/how-to-collabrate-on-github-13la)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
