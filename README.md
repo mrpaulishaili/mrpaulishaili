@@ -15,11 +15,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Transitioning from NoSQL to also implementing SQL](https://dev.to/mrpaulishaili/transitioning-from-nosql-to-also-implementing-sql-dn2)
 - [150 Days Learning Python - Day 1](https://dev.to/mrpaulishaili/150-days-learning-python-day-1-1h9c)
 - [150 DAYS LEARNING PYTHON.](https://dev.to/mrpaulishaili/150-days-learning-python-43mj)
 - [Fundamentals in JavaScript](https://dev.to/mrpaulishaili/fundamentals-in-javascript-37i8)
 - [Introduction to Javascript](https://dev.to/mrpaulishaili/introduction-to-javascript-19e9)
-- [Getting Started in Developing Chrome Extensions](https://dev.to/mrpaulishaili/getting-started-in-developing-chrome-extensions-24ff)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
