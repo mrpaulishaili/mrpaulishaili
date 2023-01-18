@@ -15,11 +15,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Configuring vscode to Pro Level](https://dev.to/mrpaulishaili/configuring-vscode-to-pro-level-2158)
 - [Introduction to Solidity](https://dev.to/mrpaulishaili/introduction-to-solidity-26h3)
 - [Continuous deployment for front-end projects with surge.sh](https://dev.to/mrpaulishaili/continous-deployment-for-front-end-projects-with-surgesh-4580)
 - [Create react app and node.js server in one line](https://dev.to/mrpaulishaili/create-client-and-server-in-one-line-48nh)
 - [Transitioning from NoSQL to also implementing SQL](https://dev.to/mrpaulishaili/transitioning-from-nosql-to-also-implementing-sql-dn2)
-- [150 Days Learning Python - Day 1](https://dev.to/mrpaulishaili/150-days-learning-python-day-1-1h9c)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
