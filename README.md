@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **react, vue, devops,**
 
-- 📫 How to reach me **paulishiali@gmail.com**
+- 📫 How to reach me **paulishaili@gmail.com**
 
 - ⚡ Fun fact **Always Learning, Always Exploring, Always Impacting**
 
