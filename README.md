@@ -15,11 +15,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [How I fixed Module &#39;&quot;@prisma/client&quot;&#39; has no exported member &#39;PrismaClient&#39;.ts](https://dev.to/mrpaulishaili/how-i-fixed-module-prismaclient-has-no-exported-member-prismaclientts-hci)
 - [Configuring vscode to Pro Level](https://dev.to/mrpaulishaili/configuring-vscode-to-pro-level-2158)
 - [Introduction to Solidity](https://dev.to/mrpaulishaili/introduction-to-solidity-26h3)
 - [Continuous deployment for front-end projects with surge.sh](https://dev.to/mrpaulishaili/continous-deployment-for-front-end-projects-with-surgesh-4580)
 - [Create react app and node.js server in one line](https://dev.to/mrpaulishaili/create-client-and-server-in-one-line-48nh)
-- [Transitioning from NoSQL to also implementing SQL](https://dev.to/mrpaulishaili/transitioning-from-nosql-to-also-implementing-sql-dn2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
