@@ -15,11 +15,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [5 Authentic Websites to Generate Stunning Favicons for Your Next.js or React Project](https://dev.to/mrpaulishaili/5-authentic-websites-to-generate-stunning-favicons-for-your-nextjs-or-react-project-5eif)
 - [How I fixed Module &#39;&quot;@prisma/client&quot;&#39; has no exported member &#39;PrismaClient&#39;.ts](https://dev.to/mrpaulishaili/how-i-fixed-module-prismaclient-has-no-exported-member-prismaclientts-hci)
 - [Configuring vscode to Pro Level](https://dev.to/mrpaulishaili/configuring-vscode-to-pro-level-2158)
 - [Introduction to Solidity](https://dev.to/mrpaulishaili/introduction-to-solidity-26h3)
 - [Continuous deployment for front-end projects with surge.sh](https://dev.to/mrpaulishaili/continous-deployment-for-front-end-projects-with-surgesh-4580)
-- [Create react app and node.js server in one line](https://dev.to/mrpaulishaili/create-client-and-server-in-one-line-48nh)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
