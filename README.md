@@ -15,11 +15,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [VSCode IntelliSense Broken in Tailwind CSS v4? Here’s the Solution](https://dev.to/mrpaulishaili/vscode-intellisense-broken-in-tailwind-css-v4-heres-the-solution-4d5)
 - [How I created reusable React Icon Component using react-icons library in an AstroJs Project.](https://dev.to/mrpaulishaili/how-i-created-reusable-react-icon-component-using-react-icons-library-in-an-astrojs-project-nk4)
 - [Building a Note-taking and Sharing App for University Students](https://dev.to/mrpaulishaili/building-a-note-taking-and-sharing-app-for-university-students-g7n)
 - [Introduction to C Programming and Data Structure.](https://dev.to/mrpaulishaili/an-introduction-to-the-c-programming-language-290c)
 - [5 Authentic Websites to Generate Stunning Favicons for Your Next.js or React Project](https://dev.to/mrpaulishaili/5-authentic-websites-to-generate-stunning-favicons-for-your-nextjs-or-react-project-5eif)
-- [How I fixed Module &#39;&quot;@prisma/client&quot;&#39; has no exported member &#39;PrismaClient&#39;.ts](https://dev.to/mrpaulishaili/how-i-fixed-module-prismaclient-has-no-exported-member-prismaclientts-hci)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
