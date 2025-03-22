@@ -1,19 +1,4 @@
-<h1 align="center">Welcome 👋, to my Github World. I'm Paul C. Ishaili</h1>
-<h3 align="center">A Web Developer, Software Engineer, and Tech Writer. I build technology tools, experiences, and solutions for businesses, organizations and individuals.</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mrpaulishaili&label=Profile%20views&color=0e75b6&style=flat" alt="mrpaulishaili" /> </p>
-
-- 🔭 I’m currently working on [DataXpress Professionals](https://dataxpressprofessionals.onrender.com)
-
-- 📝 I regularly write articles on [https://dev.to/mrpaulishaili](https://dev.to/mrpaulishaili)
-
-- 💬 Ask me about **react, vue, devops,**
-
-- 📫 How to reach me **paulishaili@gmail.com**
-
-- ⚡ Fun fact **Always Learning, Always Exploring, Always Impacting**
-
-### Blogs posts
+## Blogs posts
 <!-- BLOG-POST-LIST:START -->
 - [VSCode IntelliSense Broken in Tailwind CSS v4? Here’s the Solution](https://dev.to/mrpaulishaili/vscode-intellisense-broken-in-tailwind-css-v4-heres-the-solution-4d5)
 - [How I created reusable React Icon Component using react-icons library in an AstroJs Project.](https://dev.to/mrpaulishaili/how-i-created-reusable-react-icon-component-using-react-icons-library-in-an-astrojs-project-nk4)
